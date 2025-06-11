@@ -27,7 +27,6 @@ export const metadata: Metadata = {
     description: "Uma experiência única de RPG pixel art",
     type: "website",
   },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
